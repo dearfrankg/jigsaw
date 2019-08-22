@@ -1,2 +1,0 @@
-# jigsaw
-Created with CodeSandbox
